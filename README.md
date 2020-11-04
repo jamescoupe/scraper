@@ -7,6 +7,17 @@ Since this site has dynamic content, we are using [Selenium](https://www.seleniu
 
 <img src="https://github.com/jamescoupe/scraper/blob/main/scraper-flow2.jpg" width=400>
 
+**Pre-requisites**
+- bs4
+- selenium
+- chrome webdriver
+
+**To-Do**
+- integrate database
+- integrate image storage
+- integrate OCR
+
+
 
 
 
