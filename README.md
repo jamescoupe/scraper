@@ -5,7 +5,7 @@ Takes Chetham's [Belle Vue archive](http://185.121.204.150/ChethamLibrary/#/sear
 
 Since this site has dynamic content, we are using [Selenium](https://www.selenium.dev/documentation/en/webdriver/) and [Beautiful Soup](https://pypi.org/project/beautifulsoup4/).
 
-<img src="https://github.com/jamescoupe/scraper/blob/main/scraper-flow.jpg" width=300>
+<img src="https://github.com/jamescoupe/scraper/blob/main/scraper-flow2.jpg" width=400>
 
 
 
